@@ -27479,10 +27479,6 @@ video {
   .sm\:duration-1000 {
     transition-duration: 1000ms !important;
   }
-
-  .sm\:rotate-45 {
-    transform: rotate(45deg);
-  }
 }
 
 @media (min-width: 768px) {
@@ -40919,10 +40915,6 @@ video {
 
   .md\:duration-1000 {
     transition-duration: 1000ms !important;
-  }
-
-  .md\:rotate-45 {
-    transform: rotate(45deg);
   }
 }
 
@@ -54361,10 +54353,6 @@ video {
   .lg\:duration-1000 {
     transition-duration: 1000ms !important;
   }
-
-  .lg\:rotate-45 {
-    transform: rotate(45deg);
-  }
 }
 
 @media (min-width: 1280px) {
@@ -67801,10 +67789,6 @@ video {
 
   .xl\:duration-1000 {
     transition-duration: 1000ms !important;
-  }
-
-  .xl\:rotate-45 {
-    transform: rotate(45deg);
   }
 }
 
